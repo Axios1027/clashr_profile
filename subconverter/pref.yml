@@ -19,9 +19,9 @@ common:
   # quanx_rule_base: base/all_base.tpl
   # loon_rule_base: base/all_base.tpl
   # sssub_rule_base: base/all_base.tpl
-  proxy_config: []
-  proxy_ruleset: []
-  proxy_subscription: []
+  proxy_config: SYSTEM 
+  proxy_ruleset: SYSTEM 
+  proxy_subscription: SYSTEM 
   append_proxy_type: true
 
 userinfo:
