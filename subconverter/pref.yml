@@ -19,9 +19,9 @@ common:
   # quanx_rule_base: base/all_base.tpl
   # loon_rule_base: base/all_base.tpl
   # sssub_rule_base: base/all_base.tpl
-  proxy_config: http://frp.klaxios.top:7890
-  proxy_ruleset: http://frp.klaxios.top:7890
-  proxy_subscription: http://frp.klaxios.top:7890
+  # proxy_config: http://frp.klaxios.top:7890
+  # proxy_ruleset: http://frp.klaxios.top:7890
+  # proxy_subscription: http://frp.klaxios.top:7890
   append_proxy_type: true
 
 userinfo:
