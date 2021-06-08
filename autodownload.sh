@@ -1,5 +1,5 @@
 cp /root/.config/clash/config.yaml /root/.config/clash/config.yaml.bak #备份文件
-wget http://short.axios.cdmetrokyb.com/clash_autodownload config.yaml -O /root/.config/clash/configdownload.yaml #下载新的config文件
+wget http://short.axios.cdmetrokyb.com/clash_autodownload -O /root/.config/clash/configdownload.yaml #下载新的config文件
 
 filename=/root/.config/clash/configdownload.yaml
 filesize=`ls -l $filename | awk '{ print $5 }'`
