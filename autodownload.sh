@@ -14,4 +14,4 @@ else
     cp root/.config/clash/config.yaml.bak root/.config/clash/config.yaml
 fi
 
-pm2 restart 0
+pm2 restart clash
