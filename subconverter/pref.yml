@@ -19,9 +19,9 @@ common:
   # quanx_rule_base: base/all_base.tpl
   # loon_rule_base: base/all_base.tpl
   # sssub_rule_base: base/all_base.tpl
-  proxy_config: http://frp.klaxios.top:7890
-  proxy_ruleset: http://frp.klaxios.top:7890
-  proxy_subscription: http://frp.klaxios.top:7890
+  proxy_config: http://frp.klaxios.top:7891
+  proxy_ruleset: http://frp.klaxios.top:7891
+  proxy_subscription: http://frp.klaxios.top:7891
   append_proxy_type: true
 
 userinfo:
@@ -101,7 +101,7 @@ proxy_groups:
 template:
   template_path: "templates"
   globals:
-  - {key: clash.http_port, value: 7890}
+  - {key: clash.http_port, value: 7891}
   - {key: clash.socks_port, value: 7891}
   - {key: clash.allow_lan, value: true}
   - {key: clash.log_level, value: info}
