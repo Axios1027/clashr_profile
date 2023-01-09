@@ -1,14 +1,8 @@
 DOMAIN-SUFFIX,nccc.cdmetrokyb.com
-DOMAIN-SUFFIX,nccc.chengdurail.com
-DOMAIN-SUFFIX,ipl.chengdurail.com
-DOMAIN-SUFFIX,cms.chengdurail.com
-DOMAIN-SUFFIX,jtoa.chengdurail.com
 DOMAIN-SUFFIX,nccc.site
-DOMAIN-KEYWORD,510day
+DOMAIN-KEYWORD,chengdurail
 IP-CIDR,10.76.230.0/24
 IP-CIDR,10.76.183.0/24
 IP-CIDR,10.76.189.1/24
 IP-CIDR,10.253.0.0/16
-DOMAIN-KEYWORD,vscode
-DOMAIN-KEYWORD,shopgr
 DOMAIN-SUFFIX,cnki.net
