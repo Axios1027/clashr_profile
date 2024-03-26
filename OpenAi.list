@@ -7,3 +7,4 @@ DOMAIN-SUFFIX, akamaized.com
 DOMAIN, cdn.auth0.com
 DOMAIN, openaiapi-site.azureedge.net
 DOMAIN-SUFFIX, gemini.google.com
+DOMAIN-SUFFIX, google.dev
