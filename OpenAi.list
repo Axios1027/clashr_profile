@@ -8,3 +8,4 @@ DOMAIN, cdn.auth0.com
 DOMAIN, openaiapi-site.azureedge.net
 DOMAIN-SUFFIX, gemini.google.com
 DOMAIN-SUFFIX, google.dev
+DOMAIN-SUFFIX, aistudio.google.com
