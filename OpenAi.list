@@ -6,3 +6,4 @@ DOMAIN-SUFFIX, hcaptcha.com
 DOMAIN-SUFFIX, akamaized.com
 DOMAIN, cdn.auth0.com
 DOMAIN, openaiapi-site.azureedge.net
+DOMAIN-SUFFIX, gemini.google.com
