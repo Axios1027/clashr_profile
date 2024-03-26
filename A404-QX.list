@@ -6,3 +6,4 @@ IP-CIDR,10.76.189.1/24,地铁内网
 IP-CIDR,10.253.0.0/16,地铁内网
 DOMAIN-KEYWORD,vscode,地铁内网
 DOMAIN-SUFFIX,cnki.net,地铁内网
+DOMAIN-SUFFIX,gemini.google.com,狮城节点
